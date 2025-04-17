@@ -1,4 +1,4 @@
-chat-app/
+ChaTomas/
 ├── assets/
 │   ├── css/
 │   │   └── style.css
