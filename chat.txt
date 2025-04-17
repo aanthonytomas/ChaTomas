@@ -1,0 +1,20 @@
+chat-app/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       ├── chat.js
+│       └── auth.js
+├── includes/
+│   ├── config.php
+│   ├── functions.php
+│   └── db.php
+├── index.php
+├── login.php
+├── register.php
+├── chat.php
+├── logout.php
+└── api/
+    ├── messages.php
+    ├── users.php
+    └── auth.php
